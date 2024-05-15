@@ -1,0 +1,5 @@
+type,item,sentence,distractor,question, answer
+practice,1,今天 天气 不错。,x-x-x 好吃 蛋糕。
+practice,2,操场 上 有 一 群 学生 在 打篮球。,x-x-x 啊 甜 变 那 云南 没 资本家。,操场上有学生在打篮球吗？, Y
+practice,3,清澈 的 湖水 中 倒映 着 美丽 的 白塔。,x-x-x 里 学校 酒 革命 说 灰尘 一 早晨。
+practice,4,爱丽丝 走进 书房， 找出 了 一 本 李白 的 诗集。,x-x-x 斗争 苹果， 奔跑 哪 去 花 窗帘 书 孩子。,爱丽丝找出了一本杜甫的诗集吗？, N

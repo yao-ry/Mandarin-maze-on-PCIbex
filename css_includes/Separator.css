@@ -1,0 +1,8 @@
+.next-item-failure-message {
+    color: red;
+}
+.next-item-message {
+    font-style: italic;
+    color: green;
+    font-size: 1.5em;
+}
